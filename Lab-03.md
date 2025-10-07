@@ -35,7 +35,7 @@ Automate the process of moving files from a OneDrive folder to a SharePoint docu
         ```
     - **File Content:** Use the output from *Get file content*.
 
-### 5. Delete File from OneDrive
+### 5. Delete File from OneDrive (Optional)
 - **Action:** OneDrive for Business – *Delete file*
     - **File Identifier:** Use the Identifier from the trigger.
 
