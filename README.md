@@ -1,6 +1,6 @@
-# WorldBankAutomateTraining
+# World Bank Power Automate Training
 
-Welcome to the **WorldBankAutomateTraining** repository! This resource is designed to guide you through hands-on automation training using Microsoft Power Automate, Dataverse, SharePoint, and related Microsoft 365 tools. The repository is organized to help you build practical automation skills through structured modules and labs.
+Welcome to the **World Bank Power Automate Training** repository! This resource is designed to guide you through hands-on automation training using Microsoft Power Automate, Dataverse, SharePoint, and related Microsoft 365 tools. The repository is organized to help you build practical automation skills through structured modules and labs.
 
 ---
 
