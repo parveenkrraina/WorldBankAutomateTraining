@@ -55,7 +55,7 @@ Fetch JSON from a public API and post a digest to Microsoft Teams.
     - Add another **Scope** action and name it `Catch`.
     - Configure this scope to run **only if the `Try` scope fails** (set the run after condition to "has failed").
     - Inside the `Catch` scope:
-        - **Compose Error Message:** Add a **Compose** action to create an error message. Use the `outputs('Try')?['body']` or error details from the failed action.
+        - **Compose Error Message:** Add a **Compose** action to create an error message. Use the `outputs('Compose')?['body']` or error details from the failed action.
         - **Post Error to Teams:** Add a **Microsoft Teams – Post a message** action to send the error message to the `ops-alerts` channel.
 
 4. **Add a Scope Action Named `Finally`**
