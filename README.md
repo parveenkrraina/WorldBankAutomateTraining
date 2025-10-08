@@ -100,5 +100,3 @@ This repository includes hands-on labs that cover a variety of Power Automate us
 Feel free to explore the repository and follow the lab instructions to enhance your Power Automate skills. For any issues or contributions, please contact @parveenkrraina or open a discussion.
 
 --- 
-
-Let me know if you need further adjustments!
