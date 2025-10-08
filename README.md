@@ -1,5 +1,3 @@
----
-
 # WorldBankAutomateTraining
 
 This repository contains reference materials and lab exercises for automation training using Power Automate, Microsoft Dataverse, SharePoint, and related tools. It is structured to help trainees learn and practice automation workflows step-by-step.
