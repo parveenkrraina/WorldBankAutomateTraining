@@ -1,8 +1,4 @@
 ---
-lab:
-    title: 'Lab 2 - Build Desktop Flows'
-    module: 'Module 2 - Desktop Flows'
----
 
 # Building Desktop Flows
 
