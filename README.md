@@ -108,6 +108,9 @@ Each lab provides detailed, step-by-step instructions and sample data where appl
 
 - [Download Dataverse Developer Tools (NuGet)](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/download-tools-nuget)
 
+### Power Automate Expressions
+
+- [Power Automate Expressions](https://learn.microsoft.com/en-us/azure/logic-apps/expression-functions-reference)
 ---
 
 Feel free to explore the repository, follow the lab instructions, and contribute your feedback or improvements. For questions or support, contact @parveenkrraina or open a discussion.
