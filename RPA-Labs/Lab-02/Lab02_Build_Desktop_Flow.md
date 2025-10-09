@@ -1,5 +1,3 @@
----
-
 # Building Desktop Flows
 
 ## Scenario
