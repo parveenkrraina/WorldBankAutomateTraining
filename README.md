@@ -100,6 +100,24 @@ Each lab provides detailed, step-by-step instructions and sample data where appl
 
 ## Resources
 
+### Cloud Flows
+Here are some recommended Microsoft Learn modules and learning paths for building expertise with Power Automate cloud flows:
+
+- [Get started with Power Automate flows](https://learn.microsoft.com/en-us/training/modules/get-started-flows/)
+- [Send email with Power Automate](https://learn.microsoft.com/en-us/training/modules/email-power-automate/)
+- [Introduction to approvals in Power Automate](https://learn.microsoft.com/en-us/training/modules/approvals-power-automate/)
+- [Build approval flows with Power Automate](https://learn.microsoft.com/en-us/training/modules/build-approval-flows/)
+- [Manage user information in Power Automate](https://learn.microsoft.com/en-us/training/modules/manage-user-information/)
+- [Use multiple data sources in Power Automate](https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/)
+- [Introduction to expressions in Power Automate](https://learn.microsoft.com/en-us/training/modules/introduction-expressions/)
+- [Use input parameters in Power Automate](https://learn.microsoft.com/en-us/training/modules/input-parameters/)
+- [Error handling in Power Automate](https://learn.microsoft.com/en-us/training/modules/error-handling/)
+- [Share a cloud flow in Power Automate](https://learn.microsoft.com/en-us/training/modules/share-cloud-flow/)
+- [Use HTTP connectors in Power Automate](https://learn.microsoft.com/en-us/training/modules/http-connectors/)
+- [Build and optimize cloud flows with Power Automate (Learning Path)](https://learn.microsoft.com/en-us/training/paths/build-optimize-cloud-flows-power-automate/)
+- [Import and export solutions in Power Platform](https://learn.microsoft.com/en-us/training/modules/import-export-solutions/)
+
+
 ### Power Platform Development Tools
 
 - [Power Platform ALM Tools](https://learn.microsoft.com/en-us/power-platform/developer/tools-alm)
