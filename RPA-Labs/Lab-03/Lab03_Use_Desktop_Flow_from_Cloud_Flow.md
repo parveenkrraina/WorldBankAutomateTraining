@@ -55,7 +55,7 @@ In this lab, you will build cloud flows which integrate with the desktop flows.
     ![Show advanced options](media/Loan_showadvancedoption.png)
 
 1.  Enter `rc_loannumber eq` for Filter rows and select **LoanNumber** from
-    the dynamic content pane.
+    the dynamic content pane in parantesis (rc_loannumber eq '**LoanNumber**').
 
     ![enter details listed](media/527d6b2e80ebda324d6fb289dedb960c.png)
 
